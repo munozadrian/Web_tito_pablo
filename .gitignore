@@ -1,0 +1,7 @@
+.DS_Store
+
+# Copia de la versión anterior de la web
+_backup_original/
+
+# Documento personal, no forma parte de la web
+Imagenes/AUTOMAT*.pdf
